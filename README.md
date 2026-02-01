@@ -1,3 +1,6 @@
+# DEPRECATED! 
+
+
 # activityrole-bot
 A Discord Bot that will assign roles based on the Games that a Member is currently playing.
 
